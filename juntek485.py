@@ -147,7 +147,7 @@ if not args.quiet:
 
 
 logger.info("Starting up")
-
+print("Inicio Loop")
 while True:
     try:
         jt = JTInfo()
